@@ -8,6 +8,11 @@ Links to php resources
 - [php-must-watch](https://github.com/phptodayorg/php-must-watch) - list of interesting conference talks and videos on PHP
 - [PHP & Symfony blog](http://php-and-symfony.matthiasnoback.nl/) - by Matthias Noback
 - [Programming Are Hard](http://programmingarehard.com/) - Blog
+- [phpqatools.qa](http://phpqatools.org/) - The PHP Quality Assurance Toolchain
+- [ircmaxell's blog](http://blog.ircmaxell.com/) - A blog about PHP, Security, Performance and general web application development.
+
+### Blog posts
+- [Building an Object Model: No setters allowed](http://www.whitewashing.de/2012/08/22/building_an_object_model__no_setters_allowed.html)
 
 ## Symfony
 ### Docs
@@ -24,7 +29,13 @@ Links to php resources
 
 ### Interesting
 - [symfony-must-watch](https://github.com/symfony-si/symfony-must-watch) - List of interesting videos, conference talks, tutorials all about Symfony, Silex and PHP.
-- [PHP & Symfony blog](http://php-and-symfony.matthiasnoback.nl/) - by Matthias Noback
+- [Symfony + PHPStorm](http://blog.jetbrains.com/phpstorm/2014/08/symfony-development-using-phpstorm/)
+- [Repository as a service](http://php-and-symfony.matthiasnoback.nl/2014/05/inject-a-repository-instead-of-an-entity-manager/)
+- [Symfony tips & tricks](http://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks) - slides from REALLY nice talk
+- [Upgrading your Symfony Projects the easy Way - Symfony Blog](http://symfony.com/blog/upgrading-your-symfony-projects-the-easy-way)
+- [Organizing doctrine repositories](https://gist.github.com/yurytolochko/5447e7beaa874064defa#file-duplicates-php)
+- [Deploying Symfony2 applications with Capifony](http://krunoknego.com/2014/09/30/deploying-symfony2-applications-with-capifony/)
+- [Models and Service Layers, Hemoglobin and Hobgoblins](http://www.slideshare.net/rosstuck/models-and-service-layers-hemoglobin-and-hobgoblins) - overview of some different patterns for integrating and managing logic
 
 ## Doctrine2
 ### Docs
