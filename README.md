@@ -6,6 +6,7 @@ Links to php resources
 - [ziadoz/AwesomePHP](https://github.com/ziadoz/awesome-php/) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [PHP The Right Way](http://phptherightway.com/) - book about coding standards in PHP
 - [php-must-watch](https://github.com/phptodayorg/php-must-watch) - list of interesting conference talks and videos on PHP
+
 ## Symfony
 - [Docs](http://symfony.com/doc/current/index.html)
 - [Cookbook](http://symfony.com/doc/current/cookbook/index.html) - recipes for symfony2
@@ -16,6 +17,7 @@ Links to php resources
 - [symfony/docs GitHub Repository](https://github.com/symfony/symfony-docs) - Symfony docs repository
 - [symfony/installer GitHub Repository](https://github.com/symfony/symfony-installer) - Symfony installer repository
 - [symfony-must-watch](https://github.com/symfony-si/symfony-must-watch) - List of interesting videos, conference talks, tutorials all about Symfony, Silex and PHP.
+
 ## Doctrine2
 - [Docs](http://doctrine-orm.readthedocs.org/en/latest/) - documentation
 - [Extensions](https://github.com/gedmo/doctrine-extensions) - nice pack of doctrine extensions - code
