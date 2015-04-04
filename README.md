@@ -10,6 +10,7 @@ Links to php resources
 - [Programming Are Hard](http://programmingarehard.com/) - Blog
 - [phpqatools.qa](http://phpqatools.org/) - The PHP Quality Assurance Toolchain
 - [ircmaxell's blog](http://blog.ircmaxell.com/) - A blog about PHP, Security, Performance and general web application development.
+- [Fluent interfaces are evil](http://ocramius.github.io/blog/fluent-interfaces-are-evil/)
 
 ### Blog posts
 - [Building an Object Model: No setters allowed](http://www.whitewashing.de/2012/08/22/building_an_object_model__no_setters_allowed.html)
@@ -41,7 +42,7 @@ Links to php resources
 - [Bye bye symfony](http://mmoreram.com/blog/2014/09/01/bye-bye-symfony/)
 - [Aura Cli instead of Symfony console](http://www.craftitonline.com/2014/09/look-mama-no-console-coupling-bye-symfony-welcome-aura-cli/)
 - [Decoupling Symfony2 Forms from entities](http://verraes.net/2013/04/decoupling-symfony2-forms-from-entities/)
-- [Fluent interfaces are evil](http://ocramius.github.io/blog/fluent-interfaces-are-evil/)
+
 
 ## Doctrine2
 ### Docs
