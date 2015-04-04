@@ -13,6 +13,9 @@ Links to php resources
 
 ### Blog posts
 - [Building an Object Model: No setters allowed](http://www.whitewashing.de/2012/08/22/building_an_object_model__no_setters_allowed.html)
+- [The truth about wordpress](http://www.brandonsavage.net/the-truth-about-wordpress/)
+- [Models and Service Layers, Hemoglobin and Hobgoblins](http://www.slideshare.net/rosstuck/models-and-service-layers-hemoglobin-and-hobgoblins) - overview of some different patterns for integrating and managing logic
+- [Before you refactor](http://programmer.97things.oreilly.com/wiki/index.php/Before_You_Refactor?utm_content=buffere8882&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ## Symfony
 ### Docs
@@ -35,7 +38,10 @@ Links to php resources
 - [Upgrading your Symfony Projects the easy Way - Symfony Blog](http://symfony.com/blog/upgrading-your-symfony-projects-the-easy-way)
 - [Organizing doctrine repositories](https://gist.github.com/yurytolochko/5447e7beaa874064defa#file-duplicates-php)
 - [Deploying Symfony2 applications with Capifony](http://krunoknego.com/2014/09/30/deploying-symfony2-applications-with-capifony/)
-- [Models and Service Layers, Hemoglobin and Hobgoblins](http://www.slideshare.net/rosstuck/models-and-service-layers-hemoglobin-and-hobgoblins) - overview of some different patterns for integrating and managing logic
+- [Bye bye symfony](http://mmoreram.com/blog/2014/09/01/bye-bye-symfony/)
+- [Aura Cli instead of Symfony console](http://www.craftitonline.com/2014/09/look-mama-no-console-coupling-bye-symfony-welcome-aura-cli/)
+- [Decoupling Symfony2 Forms from entities](http://verraes.net/2013/04/decoupling-symfony2-forms-from-entities/)
+- [Fluent interfaces are evil](http://ocramius.github.io/blog/fluent-interfaces-are-evil/)
 
 ## Doctrine2
 ### Docs
