@@ -17,7 +17,7 @@ Links to php resources
 - [The truth about wordpress](http://www.brandonsavage.net/the-truth-about-wordpress/)
 - [Models and Service Layers, Hemoglobin and Hobgoblins](http://www.slideshare.net/rosstuck/models-and-service-layers-hemoglobin-and-hobgoblins) - overview of some different patterns for integrating and managing logic
 - [Before you refactor](http://programmer.97things.oreilly.com/wiki/index.php/Before_You_Refactor?utm_content=buffere8882&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- [CRUD is an antipattern] http://verraes.net/2013/04/crud-is-an-anti-pattern/
+- [CRUD is an antipattern](http://verraes.net/2013/04/crud-is-an-anti-pattern/)
 
 
 ## Symfony
