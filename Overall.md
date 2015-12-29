@@ -20,3 +20,6 @@
 - [A wave of command buses](http://php-and-symfony.matthiasnoback.nl/2015/01/a-wave-of-command-buses/)
 - [Single Responsibility Principle: Why Does it Matter?](http://blog.8thlight.com/elizabeth-engelman/2015/01/22/single-responsibility-principle-why-does-it-matter.html)
 -
+
+### Slides
+- [PHPCon](http://www.slideshare.net/jerzyzawadzki/phpcon-poland-2015-jak-sta-si-lepszym-programist-jerzy-zawadzki)
