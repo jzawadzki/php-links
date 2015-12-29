@@ -23,6 +23,8 @@
 - [Aura Cli instead of Symfony console](http://www.craftitonline.com/2014/09/look-mama-no-console-coupling-bye-symfony-welcome-aura-cli/)
 - [Decoupling Symfony2 Forms from entities](http://verraes.net/2013/04/decoupling-symfony2-forms-from-entities/)
 
+### Amazon
+- [Setting up Symfony2 App on amazon for dummies](http://stackoverflow.com/questions/20639522/setting-up-symfony2-application-on-amazon-for-dummies)
 
 ### Tools
 - [http://capifony.org/](Capifony)
